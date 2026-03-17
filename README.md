@@ -1,8 +1,8 @@
 - **Localização:** Rio de janeiro , Brasil 
 - **Instituição de Ensino**: UNISUAM-Centro Universitário Augusto Motta
 - **Curso:** Análise e desenvolvimento de sistemas
-- **Semestre Atual:** 2 semestre
-- **Experiência:** Nenhuma
+- **Semestre Atual:** 5 semestre
+- **Experiência:** estágio Compass UOL
 - **Conhecimentos:** HTML, CSS e python
 - **Hobbies:** jogar video game e praticar exercícios
 <!---
