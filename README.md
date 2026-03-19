@@ -4,7 +4,7 @@
 - **Semestre Atual:** 5 semestre
 - **Experiência:** estágio Compass UOL
 - **Conhecimentos:** HTML, CSS e python
-- **Hobbies:** jogar video game e praticar exercícios
+
 <!---
 kaua613/kaua613 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
